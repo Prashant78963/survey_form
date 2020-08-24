@@ -76,5 +76,4 @@ input,button,select,textarea {
   font-size: inherit;
 }
 button:hover{
-    background-color: #F39C12;
     opacity:0.75;}
